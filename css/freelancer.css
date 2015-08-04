@@ -466,6 +466,11 @@ footer .footer-below {
     margin: auto;
 }
 
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color:#0083BE;
+}
+
 .icon {
 	display: inline-block;
 	width: 1em;
@@ -475,7 +480,7 @@ footer .footer-below {
 
 .icon-cogs {
     font-size: 150px;
-    color: blue;
+    color: #0083BE;
 }
 
 .icon-checkmark {
