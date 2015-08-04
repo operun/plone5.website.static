@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #0083be;
 }
 
 h1,
@@ -63,7 +63,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #0083be;
 }
 
 hr.star-primary {
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #0083be;
 }
 
 header .container {
@@ -181,7 +181,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #0083be;
 }
 
 section.success a,
@@ -274,7 +274,7 @@ section.success a.active {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: #0083be;
     background: #fff;
 }
 
@@ -327,7 +327,7 @@ section.success a.active {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #0083be;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -459,6 +459,13 @@ footer .footer-below {
 }
 
 /* SVG */
+
+#logos {
+    width: 524px;
+    text-align: center;
+    margin: auto;
+}
+
 .icon {
 	display: inline-block;
 	width: 1em;
@@ -498,7 +505,7 @@ footer .footer-below {
 
 .icon-html52 {
     font-size: 250px;
-    color: blue;
+    color: #FFF;
     float: right;
 }
 /* =======================================================================================
