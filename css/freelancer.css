@@ -471,6 +471,18 @@ footer .footer-below {
     color:#0083BE;
 }
 
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color:#0083BE;
+}
+
+.btn-success:hover,
+.btn-success,
+.btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open > .dropdown-toggle.btn-success {
+    color: #FFF;
+    background-color: #0083BE;
+    border-color: #0083BE;
+}
+
 .icon {
 	display: inline-block;
 	width: 1em;
